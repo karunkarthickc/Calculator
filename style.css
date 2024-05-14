@@ -1,0 +1,32 @@
+body{
+  background-color: black;
+}
+.left{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  border-radius: 50px;
+  color: white;
+  background-color:rgb(130, 125, 125);
+  font-weight: bold;
+  border: none;
+  margin-right: 3px;
+}
+.right{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  border-radius: 50px;
+  color: white;
+  background-color:rgb(243, 187, 83);
+  font-weight: bold;
+  border: none;
+
+}
+.Displaycalc{
+  font-size: 30px;
+  color: white;
+  font-family: Arial;
+}
